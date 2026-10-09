@@ -1,0 +1,8 @@
+{
+  "name": "Dra. Juliana Vasconcelos | Dentista em Tianguá",
+  "description": "Odontologia estética, reabilitação e cuidado personalizado em Tianguá-CE. Agende sua primeira consulta gratuita pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
